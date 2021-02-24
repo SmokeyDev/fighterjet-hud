@@ -1,7 +1,7 @@
 # Fighter Jet Head-Up Display
 ![Thumbnail](https://i.imgur.com/aoukaWi.png)
 
-> The only author and every copyright owner is *Smokey*
+> The only author and copyright owner is *Smokey*
 
 > The only person allowed to republish this script is *Smokey*
 
@@ -13,8 +13,31 @@
 * implement this script in your own server
 * adapt and edit it as you want
 
-## Original download link:
+## Features:
+1. Custom User Interface
+    * Yaw
+    * Pitch
+    * Roll
+    * Speed
+    * Altitude
+1. Custom targeting interface
+    * Distance from target
+1. Custom sounds and alerts
+    * low altitude *Caution, Pull Up*
+    * stall warning *Wooh, Wooh, Stall Warning*
+    * incoming missile *Warning, Missile*
+1. Four different colors
+    * Red
+    * Green
+    * Blue
+    * Orange
+1. User friendly config file
+
+## Original topic:
 [FiveM Forum - Fighter Jet Head-Up Display]()
+
+## Full YouTube showcase:
+[Showcase](https://youtu.be/aTogx4MTIYo)
 
 ## Preview of colors:
 ![Green Version](https://i.imgur.com/0oSds30.png)
