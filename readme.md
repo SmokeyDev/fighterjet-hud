@@ -48,9 +48,9 @@
 ![Blue Version](https://i.imgur.com/CYWNh13.png)
 
 ## TO DO:
-* enchance missile alerts (I counld't find a right native to make it a proper way)
-* optimize the script a bit
-* maybe some community suggestions
+- [ ] enchance missile alerts (I counld't find a right native to make it a proper way)
+- [ ] optimize the script a bit
+- [ ] maybe some community suggestions
 
 ## Note:
-This HUD was inspired by Ace *Combat 7* and *Project WIngman* games. I've also implemented some of *GTA V* features.
+This HUD was inspired by *Ace Combat 7* and *Project WIngman* games. I've also implemented some of *GTA V* features.
