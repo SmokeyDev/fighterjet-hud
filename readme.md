@@ -1,7 +1,7 @@
 #Fighter Jet Head-Up Display
 ![Thumbnail](https://i.imgur.com/aoukaWi.png)
 
-> The only author and every copyright owner is *Smokey*
+> The only author and every copyright owner is *Smokey*\n
 > The only person allowed to republish this script is *Smokey*
 
 ##You are **NOT** allowed to:
