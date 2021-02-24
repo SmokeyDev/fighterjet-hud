@@ -36,7 +36,7 @@
 1. User friendly config file
 
 ## Original topic:
-[FiveM Forum - Fighter Jet Head-Up Display]()
+[FiveM Forum - Fighter Jet Head-Up Display](https://forum.cfx.re/t/release-fighter-jet-head-up-display-hud/2282430)
 
 ## Full YouTube showcase:
 [Showcase](https://youtu.be/aTogx4MTIYo)
@@ -48,7 +48,7 @@
 ![Blue Version](https://i.imgur.com/CYWNh13.png)
 
 ## TO DO:
-- [ ] enchance missile alerts (I counld't find a right native to make it a proper way)
+- [ ] enchance missile alerts (I couldn't find a right native to make it a proper way)
 - [ ] optimize the script a bit
 - [ ] maybe some community suggestions
 
