@@ -20,6 +20,8 @@
     * Roll
     * Speed
     * Altitude
+    * Gear State
+    * VTOL State
 1. Custom targeting interface
     * Distance from target
 1. Custom sounds and alerts
