@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Smokey - Jet Hud</title>
+        <meta name="author" content="Smokey">
+        <meta name="copyright" content="https://smokeydev.pl/">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div id="main" class="main">
+            <div class="speed">
+                <div class="text w-600">SPEED</div>
+                <div class="box">
+                    <div class="text w-500" id="speed">350</div>
+                </div>
+                <div class="arrow">
+                </div>
+            </div>
+            <div class="heading w-700" id="heading-text">254</div>
+            <div class="compass">
+                <div class="direction">
+                </div>
+            </div>
+            <div class="hud">
+                <div class="mid-point"></div>
+                <div class="pitchroll">
+                    <div class="pitch"></div>
+                </div>
+            </div>
+            <div class="altitude">
+                <div class="text w-600">ALT</div>
+                <div class="box">
+                    <div class="text w-500" id="alt">1050</div>
+                </div>
+                <div class="arrow">
+                </div>
+            </div>
+            <div class="altitude-meter">
+                <div class="altitude-pointer"></div>
+            </div>
+            <div class="stall-warn fade">STALL WARNING</div>
+            <div class="alt-warn fade">PULL UP</div>
+            <div class="missile-warn fade">MISSILE</div>
+            <div class="gear-info">GEAR:<div id="gear-state">DEPLOYED</div></div>
+            <div class="vtol-info">VTOL:<div id="vtol-state">ENABLED</div></div>
+            <div class="gun-crosshair">
+                <div class="gun-line"></div>
+            </div>
+            <div class="missile-info">
+                <div class="missile-crosshair">
+                    <div class="missile-target"></div>
+                </div>
+                <div class="missile-dist">524</div>
+            </div>
+        </div>
+    </body>
+    <script src="./script.js"></script>
+</html>
