@@ -39,7 +39,7 @@
 [FiveM Forum - Fighter Jet Head-Up Display](https://forum.cfx.re/t/release-fighter-jet-head-up-display-hud/2282430)
 
 ## Full YouTube showcase:
-[Showcase](https://youtu.be/aTogx4MTIYo)
+[Showcase](https://youtu.be/aTogx4MTIYo)\n
 [Live Preview](https://smokeydev.pl/jethud/)
 
 ## Preview of colors:
