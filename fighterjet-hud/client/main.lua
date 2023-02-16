@@ -22,6 +22,8 @@ Citizen.CreateThread(function()
             local rawAlt = altitude;
             local rotation = GetEntityRotation(veh, 2);
             local direction = math.floor(rotation[3]);
+			if(direction < 0) then direction = direction*-1 else direction = 360-direction end
+			if(direction == 360) then direction = 0 end
             local gear = GetLandingGearState(veh);
             local gearWorks = IsPlaneLandingGearIntact(veh);
             local vtol = 0.0;
